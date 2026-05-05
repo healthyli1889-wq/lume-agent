@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# next
+.next/
+out/
+build/
+dist/
+
+# misc
+.DS_Store
+*.log
+*.pem
+
+# secrets — never commit
+.env
+.env.*
+!.env.example
+
+# runtime workspace state (contains tokens after OAuth!)
+data/workspace.json
+
+# debugging
+.vercel
+.turbo
+*.tsbuildinfo
+next-env.d.ts.bak
+
+# editor
+.idea/
+.vscode/
