@@ -1,9 +1,17 @@
-# Hermes Demo
+![Uploading image.png…]()
+
+# Lume Demo
 
 A workable demo of the Hermes Morning Brief: 1-minute onboarding, two
 widgets (Today's Meetings, Replies Ready) wired end-to-end against mock
 data, with an editable draft loop that captures correction signals into
 the WorkspaceProfile.
+
+## Functions
+A. Ask Anything — the Perplexity-for-your-company recall surface (most directly shows memory)
+B. Meeting Follow-Through — memory powers the magic moment most viscerally
+C. Daily Brief — morning ritual, voice-friendly
+D. Personalized Outbound — fundraise/sales-mode batch action
 
 ## Run
 
